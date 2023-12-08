@@ -1,0 +1,12 @@
+/target/
+*.html
+.classpath
+.projetct
+.settings
+*.class
+/test-output/
+cucumber-reports/
+extend-project/
+logs/
+*.log
+*.tmp
